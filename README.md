@@ -1,4 +1,4 @@
-# mlsamples
+# astra_vsearch_QA_for_documents
 
 This demo guides you through setting up Astra DB with Vector Search, Cassio and Open AI to implement an generative Q&A for your own Documentation
 

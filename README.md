@@ -4,6 +4,11 @@ This demo guides you through setting up Astra DB with Vector Search, Cassio and 
 
 Jupyter notebook for generative Q&A for douments is powered by Astra Vector Search and OpenAI [(https://github.com/openai/) and Casssio [Opensource LLM integration with Cassandra and Astra DB (https://cassio.org/)].
 
+
+# License
+
+This project is licensed under the Apache License, Version 2.0. 
+
 # Astra Vector Search
 Astra vector search enables developers to search a database by context or meaning rather than keywords or literal values. This is done by using “embeddings”. Embeddings are a type of representation used in machine learning where high-dimensional or complex data is mapped onto vectors in a lower-dimensional space. These vectors capture the semantic properties of the input data, meaning that similar data points have similar embeddings.
 
